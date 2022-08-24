@@ -1,0 +1,13 @@
+print("""a
+FFFFF N     N
+F     NN    N
+F     N  N  N
+FFF   N   N N
+F     N     N
+F     N     N
+F     N     N
+""")
+
+#Name: Fred Nortman
+#Likes to golf
+
